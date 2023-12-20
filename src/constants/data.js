@@ -1,4 +1,6 @@
-import images from './images';
+import imageData from './images';
+
+const images = imageData
 
 const wines = [
   {
